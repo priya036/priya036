@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m currently working on Innvoation
+- 👯 I’m currently working on Innovation
 
 - 💬 Ask me about **Java , Python**
 

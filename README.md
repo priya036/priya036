@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Java , Python**
 
-- 📫 How to reach me **priyadharshis.21aid@kongu.edu**
+- 📫 How to reach me **priyadharshinis.21aid@kongu.edu**
 
 - 📄 Know about me
 
